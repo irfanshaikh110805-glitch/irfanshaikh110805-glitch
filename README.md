@@ -1,4 +1,4 @@
-# Hi there, I'm Irfan Shaikh 👋
+# Hi there, I'm Irfan Shekh 👋
 
 ## 🚀 About Me
 Enthusiastic Computer Applications student with strong problem-solving skills and hands-on experience in Python, web development, and database management. Skilled in building and deploying web applications, managing data, and applying analytical approaches to solve challenges. Interested in emerging areas such as prompt engineering. Seeking opportunities as an AI/Software Engineer, Web Developer, or Data Analyst to contribute to innovative projects and grow within a dynamic organization.
